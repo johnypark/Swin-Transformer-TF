@@ -7,6 +7,12 @@ Based on [Official Pytorch implementation](https://github.com/microsoft/Swin-Tra
 ## Requirements
 - `tensorflow >= 2.4.1`
 
+## Install 
+```
+!pip install -q git+https://github.com/johnypark/Swin-Transformer-TF
+```
+
+
 ## Pretrained Swin Transformer Checkpoints
 **ImageNet-1K and ImageNet-22K Pretrained Checkpoints**  
 | name | pretrain | resolution |acc@1 | #params | model |
